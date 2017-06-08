@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-config-server/hello-config-server.iml" filepath="$PROJECT_DIR$/hello-config-server/hello-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-eureka-client/hello-eureka-client.iml" filepath="$PROJECT_DIR$/hello-eureka-client/hello-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-eureka-server/hello-eureka-server.iml" filepath="$PROJECT_DIR$/hello-eureka-server/hello-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-ribbon-hystrix/hello-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/hello-ribbon-hystrix/hello-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-serice-feign/hello-serice-feign.iml" filepath="$PROJECT_DIR$/hello-serice-feign/hello-serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-ribbon/hello-service-ribbon.iml" filepath="$PROJECT_DIR$/hello-service-ribbon/hello-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-zuul/hello-service-zuul.iml" filepath="$PROJECT_DIR$/hello-service-zuul/hello-service-zuul.iml" />
+    </modules>
+  </component>
+</project>

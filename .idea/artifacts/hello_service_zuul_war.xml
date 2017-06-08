@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hello-service-zuul:war">
+    <output-path>$PROJECT_DIR$/hello-service-zuul/target</output-path>
+    <root id="archive" name="hello-service-zuul.war">
+      <element id="artifact" artifact-name="hello-service-zuul:war exploded" />
+    </root>
+  </artifact>
+</component>

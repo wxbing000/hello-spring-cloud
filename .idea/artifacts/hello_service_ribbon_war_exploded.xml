@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hello-service-ribbon:war exploded">
+    <output-path>$PROJECT_DIR$/hello-service-ribbon/target/hello-service-ribbon</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hello-service-ribbon" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/hello-service-ribbon/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="hello-service-ribbon/web/Web" />
+    </root>
+  </artifact>
+</component>
